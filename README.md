@@ -19,7 +19,7 @@ constructors, methods, and validation.
 - Includes type and value validation
 
 ### 3. Email Simulator
-- Simulates email sending using classes
+- Simulates sending, deleting, checking inbox, recieving emails using classes and objects.
 - Focus on object interaction
 
 ---
